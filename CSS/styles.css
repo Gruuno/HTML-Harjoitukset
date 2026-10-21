@@ -1,0 +1,103 @@
+
+/* Perusasetukset */
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #222;
+    background-color: #f4f4f4;
+    line-height: 1.6;
+}
+
+/* Yläpalkki */
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 16px 5%;
+    background-color: white;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Sivun nimi */
+header > a {
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #222;
+}
+
+/* Navigaatiolinkit */
+nav {
+    display: flex;
+    gap: 24px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #222;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Pääsivun sisältö */
+main {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 16px;
+}
+
+/* Yksittäiset osiot */
+section {
+    padding: 48px 32px;
+    margin-bottom: 16px;
+    background-color: white;
+    scroll-margin-top: 90px;
+}
+
+/* 'Home' osio */
+#home {
+    min-height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* Tuote layout */
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 24px;
+}
+
+/* Yksittäiset tuotteet */
+.product-grid article {
+    padding: 24px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+}
+
+.product-grid h3 {
+    margin-top: 0;
+}
+
+/* Pienemmät näytöt */
+@media (max-width: 700px) {
+    .product-grid {
+        grid-template-columns: 1fr;
+    }
+}
