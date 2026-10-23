@@ -101,3 +101,61 @@ section {
         grid-template-columns: 1fr;
     }
 }
+
+/* 'Home' osio */
+#home {
+    min-height: 380px;
+    padding: 64px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+
+    background: linear-gradient(135deg, #eaf2ff, #ffffff);
+    border-radius: 12px;
+}
+
+/* Pää header */
+#home h1 {
+    margin: 0 0 16px;
+    font-size: clamp(2.5rem, 6vw, 4.5rem);
+    line-height: 1.1;
+    color: #203755;
+}
+
+/* Johdantoiteksti */
+#home p {
+    max-width: 550px;
+    margin: 0 0 24px;
+    font-size: 1.1rem;
+    color: #555;
+}
+
+/* Navigaatiolinkki */
+.hero-link {
+    display: inline-block;
+    padding: 12px 24px;
+
+    background-color: #203755;
+    color: white;
+
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+.hero-link:hover {
+    background-color: #345681;
+}
+
+.hero-link:focus-visible {
+    outline: 3px solid #6b9de0;
+    outline-offset: 3px;
+}
+
+/* Muokattu home-osio pienemmille näytöille */
+@media (max-width: 600px) {
+    #home {
+        padding: 32px 24px;
+    }
+}
