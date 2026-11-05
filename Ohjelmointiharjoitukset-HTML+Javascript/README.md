@@ -4,7 +4,7 @@
 
 ### JS-moduulit 1 ja 2
 
-[Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa]([Linkki](https://users.metropolia.fi/~janituov/Ohjelmointiharjoitukset-HTML+Javascript/JS-moduulit%201%20ja%202/))
+https://users.metropolia.fi/~janituov/Ohjelmointiharjoitukset-HTML+Javascript/JS-moduulit%201%20ja%202/
 
 Tehdyt tehtävät:
 
