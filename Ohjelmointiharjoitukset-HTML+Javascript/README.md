@@ -4,18 +4,25 @@
 
 ### JS-moduulit 1 ja 2
 
-[Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa](Linkki)
+[Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa]([Linkki](https://users.metropolia.fi/~janituov/Ohjelmointiharjoitukset-HTML+Javascript/JS-moduulit%201%20ja%202/))
 
 Tehdyt tehtävät:
 
-- Tehtävä 1:
+- Tehtävä 1: 1p
+- Tehtävä 2: 2p
+- Tehtävä 3: 3p
+- Tehtävä 4: 3p
+- Tehtävä 5: 3p
+- Tehtävä 6: 3p 
+- Tehtävä 7: 2p
+- Tehtävä 8: 3p
+- Tehtävä 9: 2p
+- Tehtävä 10: 5p
 
-**Yhteensä 0p**
+**Yhteensä 39p**
 
-Kirjoita tähän huomiot mahdollisista ongelmista tai lisäominaisuuksista.
+Tehtävät menivät minusta ihan okei. Viimeinen oli tosiaan ehkä hankalin. Tarvitsi aika paljon googlaamaan ja etsimään tietoa että sai sen kunnolla tehtyä halutusti.
 
 ---
 
 ### JS-moduuli 3
-
-[Linkki JS-moduulin 3 kansiooni users.metropolia.fi-palvelussa](Linkki)
