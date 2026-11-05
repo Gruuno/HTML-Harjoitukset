@@ -4,7 +4,7 @@
 
 ### JS-moduulit 1 ja 2
 
-Linkki moduuleihin users.metropolia.fi-palvelussa[Täällä](https://users.metropolia.fi/~janituov/Ohjelmointiharjoitukset-HTML+Javascript/JS-moduulit%201%20ja%202/).
+Linkki moduuleihin users.metropolia.fi-palvelussa [Täällä](https://users.metropolia.fi/~janituov/Ohjelmointiharjoitukset-HTML+Javascript/JS-moduulit%201%20ja%202/).
 
 Tehdyt tehtävät:
 
@@ -21,7 +21,8 @@ Tehdyt tehtävät:
 
 **Yhteensä 39p**
 
-Tehtävät menivät minusta ihan okei. Viimeinen oli tosiaan ehkä hankalin. Tarvitsi aika paljon googlaamaan ja etsimään tietoa että sai sen kunnolla tehtyä halutusti.
+Tehtävät menivät minusta ihan okei. Viimeinen oli tosiaan ehkä hankalin. 
+Tarvitsi aika paljon googlaamaan ja etsimään tietoa että sai sen kunnolla tehtyä halutusti.
 
 ---
 
