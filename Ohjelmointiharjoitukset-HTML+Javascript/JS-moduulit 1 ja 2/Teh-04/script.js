@@ -18,6 +18,5 @@ if (tupaNumero === 1) {
 }
 
 // Sylkee tulokset HTML-sivulle
-document.write("<h2>Tehtävä 1: Lajitteluhattu</h2>");
 document.write("<p>" + nimi + ", sinä olet " + tupa + ".</p>");
 document.write("<hr>");

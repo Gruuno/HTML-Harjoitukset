@@ -16,7 +16,6 @@ const tulo = luku1 * luku2 * luku3;
 const keskiarvo = summa / 3;
 
 // Tulostaa tulokset HTML-sivulle
-document.write("<h2>Tehtävä 3</h2>");
 document.write("<p>Lukujen summa: " + summa + "</p>");
 document.write("<p>Lukujen tulo: " + tulo + "</p>");
 document.write("<p>Lukujen keskiarvo: " + keskiarvo + "</p>");

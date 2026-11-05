@@ -10,7 +10,6 @@ if ((vuosi % 4 === 0 && vuosi % 100 !== 0) || (vuosi % 400 === 0)) {
 }
 
 // Tulostaa tulokset HTML-sivulle
-document.write("<h2>Tehtävä 2: Karkausvuosi</h2>");
 if (onKarkausvuosi) {
     document.write("<p>Vuosi " + vuosi + " on karkausvuosi.</p>");
 } else {
